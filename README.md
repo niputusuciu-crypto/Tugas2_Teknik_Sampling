@@ -57,7 +57,7 @@ Uji Slovin dilakukan untuk menentukan jumlah sampel penelitian berdasarkan jumla
 # Pembulatan
     round(n)
 
-#pembulatan ke atas
+# pembulatan ke atas
     ceiling(n)
 # HASIL DAN PEMBAHASAN
 # UJI VALIDITAS
