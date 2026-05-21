@@ -70,3 +70,8 @@ Hal ini menunjukkan bahwa setiap item dalam kuesioner mampu mengukur variabel pe
 Hasil uji reliabilitas menunjukkan bahwa instrumen penelitian memiliki tingkat konsistensi yang sangat baik. Pengujian reliabilitas dilakukan menggunakan metode Cronbach Alpha dan diperoleh nilai raw_alpha sebesar 0,898.
 Nilai Cronbach Alpha sebesar 0,898 lebih besar dari batas minimum reliabilitas yaitu 0,70, sehingga instrumen penelitian dinyatakan reliabel. Hal ini menunjukkan bahwa seluruh item pernyataan dalam kuesioner memiliki konsistensi yang tinggi dalam mengukur variabel penelitian. Dengan demikian, jawaban responden terhadap setiap item cenderung stabil dan dapat dipercaya.
 Berdasarkan hasil tersebut, dapat disimpulkan bahwa kuesioner yang digunakan dalam penelitian layak digunakan untuk analisis lebih lanjut karena memiliki tingkat reliabilitas yang tinggi.
+# UJI SLOVIN
+![image alt](https://raw.githubusercontent.com/niputusuciu-crypto/Tugas2_Teknik_Sampling/cea545e2fd51cf56879d08425c33a963ded375f9/Cuplikan%20layar%202026-05-21%20192338.png)
+Berdasarkan output perhitungan Slovin di atas, diketahui bahwa jumlah populasi (N) sebesar 33 dengan tingkat kesalahan (e) sebesar 5% atau 0,05.	​
+Hasil perhitungan menunjukkan nilai sampel sebesar 30,48499. Karena jumlah sampel harus berupa bilangan bulat, maka dilakukan pembulatan. Pada output terlihat terdapat dua cara pembulatan, yaitu menggunakan round(n) yang menghasilkan 30 dan ceiling(n) yang menghasilkan 31.
+Dalam penelitian, pembulatan jumlah sampel umumnya menggunakan pembulatan ke atas (ceiling) agar jumlah responden lebih mencukupi dan mampu mewakili populasi dengan lebih baik. Oleh karena itu, jumlah sampel yang digunakan dalam penelitian ini adalah sebanyak 31 responden.
