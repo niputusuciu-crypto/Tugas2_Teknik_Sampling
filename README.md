@@ -62,16 +62,19 @@ Uji Slovin dilakukan untuk menentukan jumlah sampel penelitian berdasarkan jumla
 # HASIL DAN PEMBAHASAN
 # UJI VALIDITAS
 ![image alt](https://github.com/niputusuciu-crypto/Tugas2_Teknik_Sampling/blob/9ef98198a6789c68b6454ecb887bdca0b6b8cf9f/Cuplikan%20layar%202026-05-21%20184248.png)
+
 Hasil uji validitas menunjukkan bahwa seluruh item pernyataan pada kuesioner dinyatakan valid. Pengujian dilakukan menggunakan korelasi item-total dengan membandingkan nilai r hitung terhadap r tabel. Jumlah responden dalam penelitian sebanyak 33 orang sehingga diperoleh nilai r tabel sebesar sekitar 0,344 pada taraf signifikansi 5%.
 Berdasarkan hasil pengujian, diperoleh nilai korelasi item-total untuk P1 sebesar 0,795, P2 sebesar 0,813, P3 sebesar 0,776, P4 sebesar 0,805, P5 sebesar 0,796, P6 sebesar 0,848, P7 sebesar 0,744, P8 sebesar 0,698, P9 sebesar 0,426, dan P10 sebesar 0,642. Seluruh nilai korelasi tersebut lebih besar daripada r tabel sebesar 0,344 sehingga seluruh item pernyataan dinyatakan valid.
 Hal ini menunjukkan bahwa setiap item dalam kuesioner mampu mengukur variabel penelitian dengan baik dan dapat digunakan dalam proses analisis data selanjutnya. Item P6 memiliki nilai validitas tertinggi sehingga menjadi item yang paling kuat dalam merepresentasikan variabel penelitian, sedangkan item P9 memiliki nilai validitas terendah namun masih memenuhi kriteria validitas sehingga tetap layak digunakan.
 # UJI RELIABILITAS
 ![image alt](https://raw.githubusercontent.com/niputusuciu-crypto/Tugas2_Teknik_Sampling/acd164eed951411fc37105c5db2cefd9bb9ceae1/Cuplikan%20layar%202026-05-21%20192322.png)
+
 Hasil uji reliabilitas menunjukkan bahwa instrumen penelitian memiliki tingkat konsistensi yang sangat baik. Pengujian reliabilitas dilakukan menggunakan metode Cronbach Alpha dan diperoleh nilai raw_alpha sebesar 0,898.
 Nilai Cronbach Alpha sebesar 0,898 lebih besar dari batas minimum reliabilitas yaitu 0,70, sehingga instrumen penelitian dinyatakan reliabel. Hal ini menunjukkan bahwa seluruh item pernyataan dalam kuesioner memiliki konsistensi yang tinggi dalam mengukur variabel penelitian. Dengan demikian, jawaban responden terhadap setiap item cenderung stabil dan dapat dipercaya.
 Berdasarkan hasil tersebut, dapat disimpulkan bahwa kuesioner yang digunakan dalam penelitian layak digunakan untuk analisis lebih lanjut karena memiliki tingkat reliabilitas yang tinggi.
 # UJI SLOVIN
 ![image alt](https://raw.githubusercontent.com/niputusuciu-crypto/Tugas2_Teknik_Sampling/cea545e2fd51cf56879d08425c33a963ded375f9/Cuplikan%20layar%202026-05-21%20192338.png)
+
 Berdasarkan output perhitungan Slovin di atas, diketahui bahwa jumlah populasi (N) sebesar 33 dengan tingkat kesalahan (e) sebesar 5% atau 0,05.	​
 Hasil perhitungan menunjukkan nilai sampel sebesar 30,48499. Karena jumlah sampel harus berupa bilangan bulat, maka dilakukan pembulatan. Pada output terlihat terdapat dua cara pembulatan, yaitu menggunakan round(n) yang menghasilkan 30 dan ceiling(n) yang menghasilkan 31.
 Dalam penelitian, pembulatan jumlah sampel umumnya menggunakan pembulatan ke atas (ceiling) agar jumlah responden lebih mencukupi dan mampu mewakili populasi dengan lebih baik. Oleh karena itu, jumlah sampel yang digunakan dalam penelitian ini adalah sebanyak 31 responden.
